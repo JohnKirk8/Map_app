@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "title": "Davao City Hall",
+    "description": "Historic city landmark and administrative hub.",
+    "latitude": 7.0647,
+    "longitude": 125.6078
+  },
+  {
+    "id": "2",
+    "title": "People's Park",
+    "description": "Cultural urban park featuring local art and greenery.",
+    "latitude": 7.0700,
+    "longitude": 125.6089
+  },
+  {
+    "id": "3",
+    "title": "Magsaysay Park",
+    "description": "Public park located near the waterfront.",
+    "latitude": 7.0765,
+    "longitude": 125.6200
+  }
+]

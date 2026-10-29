@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039185674101",
+    "project_id": "geoaether-5ed5d",
+    "storage_bucket": "geoaether-5ed5d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039185674101:android:4598a46e589c09d93d9d3c",
+        "android_client_info": {
+          "package_name": "com.example.login_page"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOV2pQZKOy5cLFh3h5EPd68mxKlGb1sG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
